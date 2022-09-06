@@ -3,8 +3,6 @@
 Une manière simple de gérer ses rendez-vous
 </div>
 
-<hr/>
-
 ## Bienvenue chez brisq
 
 Ce projet se déroule dans le cadre du cours d'été <abbr title="Projet de groupe">PDG</abbr> de la <abbr title="Haute école d'ingénierie et de gestion Vaud">HEIG-VD</abbr> et est réalisé par une équipe de 5 étudiants en informatique, issus de différentes filières. Ce projet est né de l'idée d'un des membres du groupe de créer une plateforme de prise de rendez-vous simple et rapide d'utilisation.
