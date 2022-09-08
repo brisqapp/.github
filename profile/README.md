@@ -19,6 +19,7 @@ Ce projet se déroule dans le cadre du cours d'été <abbr title="Projet de grou
 
 ## Liste des repositories
 
+- Admin : [admin](https://github.com/brisqapp/admin)
 - Back-end : [brisq-core](https://github.com/brisqapp/brisq-core)
 - Front-end : [brisq-client](https://github.com/brisqapp/brisq-client)
 - Site web public : [brisqapp.github.io](https://github.com/brisqapp/brisqapp.github.io)
